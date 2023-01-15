@@ -31,7 +31,10 @@ virtualenv
       python3 triathlon_checklist.py <br>        
 </ol>
 
-## Licence:
+## Stats:
 
-## Badges:
 ![triathlon_checklist](https://img.shields.io/github/languages/top/marta-rakowska/triathlon_checklist)
+
+![triathlon_checklist](https://img.shields.io/github/license/marta-rakowska/triathlon_checklist.svg)
+
+![triathlon_checklist](https://img.shields.io/github/watchers/marta-rakowska/triathlon_checklist.svg)
